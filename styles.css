@@ -1,4 +1,4 @@
 p {
-    font: bold 40px/300px Arial;
-    color:red;
+    font: bold italic 40px/50px Arial;
+    line-height: 60px;
 }
